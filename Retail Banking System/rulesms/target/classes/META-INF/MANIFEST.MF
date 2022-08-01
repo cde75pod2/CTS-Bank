@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: rulesms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prave
+Implementation-Vendor-Id: com.rulesservice
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/rulesservic
+ e
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

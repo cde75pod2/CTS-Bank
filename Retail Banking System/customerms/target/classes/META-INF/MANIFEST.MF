@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: customerms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prave
+Implementation-Vendor-Id: com.retailbank.customer
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/CustomerSer
+ vice
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: authenticationms
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: prave
+Implementation-Vendor-Id: com.retailbank
+Build-Jdk: 1.8.0_291
+Implementation-URL: https://spring.io/projects/spring-boot/Authenticat
+ ion-MS
+Created-By: Maven Integration for Eclipse
+
